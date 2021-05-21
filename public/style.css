@@ -1,0 +1,369 @@
+﻿.main-banner-section {
+    position: relative;
+    padding: 14px 10px 0px;
+    background-repeat: no-repeat;
+    background-position: left top;
+	height: 100vh;
+	overflow: hidden;
+}
+
+
+.main-banner-section .left-curve{
+	position:absolute;
+	left:0px;
+	top:0px;
+	width:514px;
+	height:100vh;
+	background: no-repeat;
+	background:url(../images/background/1.jpg) left top no-repeat;
+}
+
+.main-banner-section .icon-four{
+	position:absolute;
+	right:-150px;
+	top:0px;
+	width:514px;
+	height:100%;
+	background:url(../images/icons/shapes/icon-46.png) no-repeat;
+}
+
+.main-banner-section .icon-five{
+	position:absolute;
+	right:-150px;
+	top:60px;
+	width:514px;
+	height:100%;
+	background:url(../images/icons/shapes/icon-47.png) no-repeat;
+}
+
+.main-banner-section .top-icon{
+	position:absolute;
+	left:25%;
+	top:0px;
+	width:189px;
+	height:102px;
+	display:inline-block;
+	background:url(../images/icons/shapes/icon-45.png) no-repeat;
+}
+
+.main-banner-section .auto-container{
+	max-width:1620px;
+}
+
+.main-banner-section .inner-container{
+	position:relative;
+	text-align:center;
+	padding: 172px 0px 34vh;
+	background-size:cover;
+	background-repeat:no-repeat;
+	-webkit-box-shadow:0px 0px 30px 8px rgba(0,0,0,0.05),-2px 0px 5px 1px rgba(0,0,0,0.05);
+	-ms-box-shadow:0px 0px 30px 8px rgba(0,0,0,0.05),-2px 0px 5px 1px rgba(0,0,0,0.05);
+	-o-box-shadow:0px 0px 30px 8px rgba(0,0,0,0.05),-2px 0px 5px 1px rgba(0,0,0,0.05);
+	-moz-box-shadow:0px 0px 30px 8px rgba(0,0,0,0.05),-2px 0px 5px 1px rgba(0,0,0,0.05);
+	box-shadow:0px 0px 30px 8px rgba(0,0,0,0.05),-2px 0px 5px 1px rgba(0,0,0,0.05);
+}
+
+.main-banner-section .inner-container .icon-three{
+	position:absolute;
+	left:-90px;
+	bottom:0px;
+	width:188px;
+	height:192px;
+	z-index:-1;
+	display:inline-block;
+	background:url(../images/icons/shapes/icon-44.png) no-repeat;
+}
+
+.main-banner-section .inner-container .icon-six{
+	position:absolute;
+	left:10%;
+	bottom:0px;
+	width:128px;
+	height:128px;
+	display:inline-block;
+	background:url(../images/icons/shapes/icon-48.png) no-repeat;
+}
+
+.main-banner-section .inner-container .icon-seven{
+	position:absolute;
+	left:25%;
+	top:150px;
+	width:52px;
+	height:52px;
+	display:inline-block;
+	background:url(../images/icons/shapes/icon-49.png) no-repeat;
+}
+
+.main-banner-section .inner-container .icon-eight{
+	position:absolute;
+	left:51%;
+	top:40%;
+	width:52px;
+	height:52px;
+	display:inline-block;
+	background:url(../images/icons/shapes/icon-50.png) no-repeat;
+}
+
+.main-banner-section .inner-container .icon-nine{
+	position:absolute;
+	right:40%;
+	top:20%;
+	width:34px;
+	height:34px;
+	display:inline-block;
+	background:url(../images/icons/shapes/icon-51.png) no-repeat;
+}
+
+.main-banner-section .inner-container .icon-ten{
+	position:absolute;
+	right:25%;
+	top:10%;
+	width:70px;
+	height:70px;
+	display:inline-block;
+	background:url(../images/icons/shapes/icon-52.png) no-repeat;
+}
+
+.main-banner-section .inner-container .icon-eleven{
+	position:absolute;
+	right:25%;
+	top:55%;
+	width:50px;
+	height:50px;
+	display:inline-block;
+	background:url(../images/icons/shapes/icon-53.png) no-repeat;
+}
+
+.main-banner-section h2{
+	position:relative;
+	color:#414857;
+	z-index:1;
+	font-size:106px;
+	font-weight:700;
+	line-height:1.3em;
+	display:inline-block;
+	text-shadow: 0px 12px 2px #eaf2ff;
+	text-transform:capitalize;
+}
+
+.main-banner-section .text{
+	position:relative;
+	color:#414857;
+	z-index:1;
+	font-size:18px;
+	font-weight:400;
+	line-height:1.7em;
+	margin-bottom:35px;
+}
+
+
+
+.main-banner-section .inner-container .circle-one{
+	position:absolute;
+	left:-90px;
+	top:160px;
+	width:179px;
+	height:179px;
+	display:inline-block;
+	background:url(../images/icons/shapes/circle-1.png);
+}
+
+.main-banner-section .inner-container .icon-one{
+	position:absolute;
+	left:330px;
+	bottom:-30px;
+	width:59px;
+	height:59px;
+	background:url(../images/icons/shapes/icon-2.png) no-repeat;
+}
+
+.main-banner-section .inner-container .icon-two{
+	position:absolute;
+	right:40px;
+	top:200px;
+	width:52px;
+	height:52px;
+	background:url(../images/icons/shapes/icon-3.png) no-repeat;
+}
+
+.main-banner-section .inner-container .side-image{
+	position: absolute;
+    right: -333px;
+    bottom: -11px;
+}
+
+
+.main-banner-section .inner-container .side-image img {
+	width: 33%;
+	height: 40%;
+}
+
+
+.main-banner-section .inner-container .social-icon-one{
+	position:absolute;
+	right:-60px;
+	bottom:0px;
+}
+
+.button {
+	color: black;
+	display: flex;
+	position: absolute;
+	left: 50%;
+	transform: translate(-50%,0);
+	justify-content: center;
+}
+
+#create-room {
+	margin-right: 50px;
+}
+
+#join-room {
+	margin-left: 20px;
+}
+#join-room-id {
+	box-sizing: border-box;
+    padding: 7px 11px;
+    color: #555555;
+    height: 46px;
+    line-height: 28px;
+    width: 100%;
+    display: block;
+    font-size: 16px;
+    background: #ffffff;
+    border: 4px solid #f31a1a;
+    margin-top: 10px;
+    border-radius: 12px;
+    border-bottom: 2px solid #bec3d9;
+    transition: all 300ms ease;
+    outline: none;
+}
+button {
+	 border: none;
+	 padding: 1em;
+	 outline: none;
+	 color: white;
+	 text-transform: uppercase;
+	 font-weight: 900;
+	 font-style: 1.2em;
+	 letter-spacing: 0.2em;
+	 position: relative;
+	 z-index: 1;
+	 cursor: pointer;
+	 background: none;
+	 text-shadow: 3px 3px 10px rgba(0, 0, 0, .45);
+	 white-space: nowrap;
+}
+ button:before, button:after {
+	 position: absolute;
+	 top: 50%;
+	 left: 50%;
+	 border-radius: 10em;
+	 transform: translateX(-50%) translateY(-50%);
+	 width: 105%;
+	 height: 105%;
+	 content: '';
+	 z-index: -2;
+	 background-size: 400% 400%;
+	 background: #00d000;
+}
+ button:before {
+	 filter: blur(7px);
+	 transition: all 0.25s ease;
+	 animation: pulse 10s infinite ease;
+}
+ button:after {
+	 filter: blur(0.3px);
+}
+ button:hover:before {
+	 width: 115%;
+	 height: 115%;
+}
+#join-room::before, #join-room::after {
+	background: #d00000b8;
+}
+.icon {
+	position: absolute;
+	text-align: center;
+	width: 108px;
+    height: 108px;
+    border-radius: 20px;
+	top: 50%;
+    color: white;
+    font-size: calc(2rem + 1vw);
+	left:50%;
+	transform: translate(-402px, -213px);
+    margin-left: auto;
+    margin-right: auto;
+    display: flex!important;
+    align-items: center;
+    justify-content: center;
+	background-image: linear-gradient( 40deg,#39aeff,#3cff53);
+    box-shadow: 0 20px 40px 0 rgb(58 212 173 / 80%);
+}
+
+/* Bari - Portfolio HTML Template */
+
+
+
+@media only screen and (max-width: 767px){
+	
+	
+	
+	.main-banner-section h2{
+		font-size:90px;
+	}
+	.btn {
+		padding: 10px;
+		font-size: 12px;
+	}
+
+	.icon {
+		transform: translate(-50%,-255px);
+		width: 94px;
+    	height: 94px;
+	}
+
+	.button {
+		top: 50%;
+	}
+
+
+	.main-banner-section .inner-container{
+	
+		padding: 172px 0px 55vh;
+	}
+	
+	
+	/* .main-banner-section .inner-container .side-image,
+	.main-slider .content-image.image-three{
+		display:none;
+	}
+	
+	.main-banner-section .inner-container{
+		padding:80px 0px;
+	} */
+	
+	
+}
+
+
+@media only screen and (max-width: 479px) {
+	
+	.page-title h2,
+	.main-banner-section h2 {
+		font-size:30px;
+	}
+
+	.button {
+		font-size: 10px;
+	}
+	
+
+	
+	/* .main-slider .text br,
+	.main-banner-section .text br{
+		display:none;
+	}
+	 */ 
+}
