@@ -11,4 +11,4 @@
 2. Send id for another and enjoy
 
 ![fdsa](screenshot (3).png)
-![alt text](assets/images/screenshot.png)
+![alt text](screenshot (3).png)
