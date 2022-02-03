@@ -10,4 +10,4 @@
 1. Create room or join room by id
 2. Send id for another and enjoy
 
-[](/screenshot (3).png)
+![](/screenshot (3).png)
